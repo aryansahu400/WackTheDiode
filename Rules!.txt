@@ -1,0 +1,9 @@
+1) Each player gets 30 secs to play.
+
+2) The player should move the joystick in the direction of the last glowing led.
+
+3) For a correct hit, the player gets a point.
+
+4) If any player misses more than 7 times, the game is over and all the leds will glow.
+
+5) The score will be displayed on the Binary Score board, where a glowing led represents 1 and turned off led represents 0.
